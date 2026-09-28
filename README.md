@@ -1,2 +1,2 @@
-# lp-lcc-2026-2-cuida
+# lp-lcc-2026-2
 
